@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/AlexeyDer/noSkype.svg?branch=release)](https://travis-ci.com/AlexeyDer/noSkype)
+[![Build Status](https://travis-ci.com/ViktoriaGatz/hello_world_home.svg?branch=master)](https://travis-ci.com/ViktoriaGatz/hello_world_home)
 # noSkype
 ![Image](https://hsto.org/webt/5b/22/62/5b2262cea66f9381421890.png)
 ![Image](https://cdn.iconscout.com/icon/free/png-256/gradle-3-1175026.png)
